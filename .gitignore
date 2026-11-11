@@ -1,0 +1,21 @@
+# Java files
+*.class
+
+# Build folders
+out/
+target/
+
+# IntelliJ settings
+.idea/
+*.iml
+
+# Temporary files
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*
+
+# Windows files
+Thumbs.db
